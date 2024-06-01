@@ -5,8 +5,8 @@ This project showcases the use of Power Query and DAX Query to analyze employee 
 
 ## Tools Used:
 
-1.Power BI
-2.Power Query
-2.Dax Query
-3.Data modeling
+Power BI
+Power Query
+Dax Query
+Data modeling
 
